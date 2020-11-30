@@ -1,0 +1,3 @@
+flag路径：/home/ctf/flag
+pwn文件路径：/home/ctf/crypto_system
+libc-2.27.so：50390b2ae8aaa73c47745040f54e602f
